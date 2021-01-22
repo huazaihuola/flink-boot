@@ -6,21 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flink-annotation" />
-        <module name="flink-apollo" />
-        <module name="flink-base" />
-        <module name="flink-cache-annotation" />
-        <module name="flink-client" />
-        <module name="flink-jedis" />
-        <module name="flink-junit" />
         <module name="flink-mybatis" />
-        <module name="flink-retry" />
+        <module name="flink-jedis" />
         <module name="flink-sql" />
+        <module name="flink-retry" />
+        <module name="flink-cache-annotation" />
+        <module name="flink-base" />
+        <module name="flink-apollo" />
         <module name="flink-validate" />
+        <module name="flink-annotation" />
+        <module name="flink-client" />
+        <module name="flink-junit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="flink-annotate" target="1.8" />
       <module name="flink-annotation" target="1.8" />
       <module name="flink-apollo" target="1.5" />
       <module name="flink-base" target="1.8" />
