@@ -16,8 +16,7 @@ import org.apache.flink.streaming.api.datastream.DataStream;
 import org.apache.flink.streaming.api.environment.CheckpointConfig;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer;
-import org.apache.flink.table.api.TableEnvironment;
-import org.apache.flink.table.api.java.StreamTableEnvironment;
+import org.apache.flink.table.api.bridge.java.StreamTableEnvironment;
 import org.joda.time.DateTime;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -60,7 +59,7 @@ public abstract class BaseFlink {
     public void init(ParameterTool params) throws IOException {
         String isLocal = params.get("isLocal");
         env = StreamExecutionEnvironment.getExecutionEnvironment();
-        tableEnv = TableEnvironment.getTableEnvironment(env);
+//        tableEnv = TableEnvironment.getTableEnvironment(env);
 
         this.properties = PropertiesUtils.getProperties(getPropertiesName());
 
