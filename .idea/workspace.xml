@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee8853e-8d6f-4961-9f2b-64e072b743c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/flink-client/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/flink-client/src/main/resources/config.properties" afterDir="false" />
-    </list>
+    <list default="true" id="fee8853e-8d6f-4961-9f2b-64e072b743c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,21 +37,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>InnerMap</find>
-      <find>catl</find>
-      <find>org.aspectj</find>
-      <find>ocv</find>
-      <find>随书代码</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>D:\develop1\flink-boot</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,6 +63,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -211,7 +195,7 @@
       <workItem from="1606834008435" duration="285000" />
       <workItem from="1607135963400" duration="1259000" />
       <workItem from="1607220334368" duration="31000" />
-      <workItem from="1611294493317" duration="2107000" />
+      <workItem from="1611294493317" duration="8549000" />
     </task>
     <task id="LOCAL-00001" summary="准备代码">
       <created>1605013480696</created>
@@ -378,6 +362,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="准备代码" />
     <MESSAGE value="升级依赖包" />
     <option name="LAST_COMMIT_MESSAGE" value="升级依赖包" />
@@ -387,42 +372,47 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611295619072" />
-    <state width="2005" height="267" key="GridCell.Tab.0.bottom" timestamp="1611294852818">
+    <state width="2005" height="329" key="GridCell.Tab.0.bottom" timestamp="1611312432159">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852818" />
-    <state width="2005" height="267" key="GridCell.Tab.0.center" timestamp="1611294852818">
+    <state width="2005" height="329" key="GridCell.Tab.0.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312432159" />
+    <state width="2005" height="329" key="GridCell.Tab.0.center" timestamp="1611312432159">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852818" />
-    <state width="2005" height="267" key="GridCell.Tab.0.left" timestamp="1611294852817">
+    <state width="2005" height="329" key="GridCell.Tab.0.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312432159" />
+    <state width="2005" height="329" key="GridCell.Tab.0.left" timestamp="1611312432159">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852817" />
-    <state width="2005" height="267" key="GridCell.Tab.0.right" timestamp="1611294852818">
+    <state width="2005" height="329" key="GridCell.Tab.0.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312432159" />
+    <state width="2005" height="329" key="GridCell.Tab.0.right" timestamp="1611312432159">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852818" />
-    <state width="2005" height="267" key="GridCell.Tab.1.bottom" timestamp="1611294852660">
+    <state width="2005" height="329" key="GridCell.Tab.0.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312432159" />
+    <state width="2005" height="329" key="GridCell.Tab.1.bottom" timestamp="1611312431991">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.1.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852660" />
-    <state width="2005" height="267" key="GridCell.Tab.1.center" timestamp="1611294852660">
+    <state width="2005" height="329" key="GridCell.Tab.1.bottom/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312431991" />
+    <state width="2005" height="329" key="GridCell.Tab.1.center" timestamp="1611312431991">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.1.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852660" />
-    <state width="2005" height="267" key="GridCell.Tab.1.left" timestamp="1611294852660">
+    <state width="2005" height="329" key="GridCell.Tab.1.center/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312431991" />
+    <state width="2005" height="329" key="GridCell.Tab.1.left" timestamp="1611312431991">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.1.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852660" />
-    <state width="2005" height="267" key="GridCell.Tab.1.right" timestamp="1611294852660">
+    <state width="2005" height="329" key="GridCell.Tab.1.left/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312431991" />
+    <state width="2005" height="329" key="GridCell.Tab.1.right" timestamp="1611312431991">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="267" key="GridCell.Tab.1.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294852660" />
+    <state width="2005" height="329" key="GridCell.Tab.1.right/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611312431991" />
     <state x="526" y="200" key="SettingsEditor" timestamp="1611294517752">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="526" y="200" key="SettingsEditor/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611294517752" />
+    <state x="-1242" y="269" width="566" height="536" key="find.popup" timestamp="1611398456787">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1242" y="269" width="566" height="536" key="find.popup/0.0.2048.1112/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1611398456787" />
+    <state x="723" y="288" width="602" height="536" key="find.popup/0.0.2048.1112/-1920.0.1920.1040@0.0.2048.1112" timestamp="1611297818371" />
     <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1611295562135">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
